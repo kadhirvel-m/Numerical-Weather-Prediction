@@ -42,7 +42,7 @@ The dataset includes the following columns:
 ## 🔧 Installation & Setup
 ```bash
 # Clone this repository
-git clone https://github.com/22danu/Weather
+git clone https://github.com/kadhirvel-m/Numerical-Weather-Prediction
 
 # Install dependencies
 pip install numpy pandas matplotlib seaborn scipy tqdm filterpy
