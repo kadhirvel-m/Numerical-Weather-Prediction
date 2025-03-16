@@ -45,7 +45,7 @@ The dataset includes the following columns:
 git clone https://github.com/kadhirvel-m/Numerical-Weather-Prediction
 
 # Install dependencies
-pip install numpy pandas matplotlib seaborn scipy tqdm filterpy
+pip install numpy pandas matplotlib seaborn scipy tqdm filterpy streamlit
 
 # Run the model
 python -m streamlit run app.py
