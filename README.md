@@ -95,4 +95,4 @@ This project is **open-source** under the MIT License.
 
 ---
 
-💡 **Author**: Vanitha A, Danushiyaa M
+💡 **Author**: 
