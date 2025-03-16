@@ -47,8 +47,8 @@ git clone https://github.com/kadhirvel-m/Numerical-Weather-Prediction
 # Install dependencies
 pip install numpy pandas matplotlib seaborn scipy tqdm filterpy
 
-# Run the Jupyter Notebook
-jupyter notebook
+# Run the model
+python -m streamlit run app.py
 ```
 
 ## 🚀 Usage
